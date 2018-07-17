@@ -1,0 +1,2 @@
+include ':app', ':ExampleApp'
+project(':ExampleApp').projectDir = new File('Android_beginners_2/app')
